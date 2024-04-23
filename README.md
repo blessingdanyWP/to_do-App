@@ -8,5 +8,5 @@ Th apk file as per abi is also been added in the repository, you can download an
 
 
 The steps is also in the png format.
-https://github.com/blessingdanyWP/To_do-App/blob/main/steps1.png
-https://github.com/blessingdanyWP/To_do-App/blob/main/steps2.png
+
+https://github.com/blessingdanyWP/To_do-App/blob/main/step1.png
